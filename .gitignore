@@ -12,8 +12,6 @@
 *.shp
 *.shx
 *.sas7bdat
-*.txt
-*.TXT
 *.VERSION.txt
 *.xml
 *.zip
